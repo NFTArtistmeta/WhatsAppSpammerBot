@@ -13,12 +13,6 @@ pip install -r requirements.txt
 
 ## Detailed explanation of script, if needed
 
-## Output
-![Result](image.png)
-## Author(s)
-
-Harsh Pandey
-
 ## Disclaimers, if any
 
 Use it just for fun and not for any unethical purpose
